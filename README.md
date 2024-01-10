@@ -1,3 +1,6 @@
+![image](https://github.com/sachidumaleesha/anime-webapp/assets/45502921/db58f848-d6ea-4e36-b509-1e484b0b92a9)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
